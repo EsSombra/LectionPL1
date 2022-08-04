@@ -1,0 +1,15 @@
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\bin\Debug\net6.0\task001_HelloConsole.exe
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\bin\Debug\net6.0\task001_HelloConsole.deps.json
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\bin\Debug\net6.0\task001_HelloConsole.runtimeconfig.json
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\bin\Debug\net6.0\task001_HelloConsole.dll
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\bin\Debug\net6.0\task001_HelloConsole.pdb
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.csproj.AssemblyReference.cache
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.AssemblyInfoInputs.cache
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.AssemblyInfo.cs
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.csproj.CoreCompileInputs.cache
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.dll
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\refint\task001_HelloConsole.dll
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.pdb
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\task001_HelloConsole.genruntimeconfig.cache
+J:\ботать\Знакомство с ЯП\Lection1\task001_HelloConsole\obj\Debug\net6.0\ref\task001_HelloConsole.dll
